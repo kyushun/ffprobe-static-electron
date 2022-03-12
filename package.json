@@ -1,6 +1,6 @@
 {
   "name": "ffprobe-static-electron",
-  "version": "2.0.2",
+  "version": "4.4.0",
   "description": "Static binaries for ffprobe.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pietrop/ffprobe-static-electron.git"
+    "url": "https://github.com/kyushun/ffprobe-static-electron.git"
   },
   "keywords": [
     "ffprobe",
